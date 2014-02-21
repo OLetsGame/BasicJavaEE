@@ -1,0 +1,4 @@
+BasicJavaEE
+===========
+
+Basic JavaEE Exercises
